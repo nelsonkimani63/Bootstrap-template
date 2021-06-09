@@ -1,0 +1,107 @@
+html { 
+    background: url(image_1.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow-x: hidden;
+    font-size: 1.25em;
+    -webkit-text-size-adjust: 100%;
+  }
+
+  body {
+    color: blueviolet;
+    line-height: 1.7;
+    font-size: 16px;
+    font-family: "Open Sans",Arial,sans-serif;
+  }
+
+.navlist-right {
+  float:right;
+  width: 500px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: green;
+}
+
+
+.uicookies {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color:black;
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+nav > ul {
+  display: inline;
+  padding: 0;
+}
+
+nav > ul > li {
+  display: inline-block;
+  list-style-type: none;
+  margin: 0 5px 0 5px; 
+}
+
+.container {
+  width: 1170px;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  display: block;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  display: table;
+  background: #fff;
+  color: #73767c;
+  line-height: 1.7;
+  font-size: 16px;
+  font-family: "Open Sans",Arial,sans-serif;
+}
+
+.row_1 {
+    margin-right: -15px;
+    margin-left: -15px;
+    display: block;
+    color: #73767c;
+    line-height: 1.7;
+    font-size: 16px;
+    font-family: "Open Sans",Arial,sans-serif;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+
+.colmd-1 {
+  display: block;
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  float: left;
+
+}
+
+.colmd-2 {
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box; }
+
+.colmd-3 {
+  position: relative;
+  min-height: 1px;
+  padding-right: 15px;
+  padding-left: 15px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+
+}
